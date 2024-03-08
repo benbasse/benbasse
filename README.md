@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm BenBasse</h1>
 <h3 align="center">A passionate backend developer from Senegal</h3>
-<img align="right" alt="Coding" width="400" src="file:///Users/air/Downloads/WhatsApp%20Image%202024-03-08%20at%2016.32.15.jpeg"/>
+<!-- <img align="right" alt="Coding" width="400" src="file:///Users/air/Downloads/WhatsApp%20Image%202024-03-08%20at%2016.32.15.jpeg"/> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benbasse&label=Profile%20views&color=0e75b6&style=flat" alt="benbasse" /> </p>
