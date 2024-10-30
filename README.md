@@ -9,8 +9,6 @@
 
 - 🔭 I’m currently working on **personal projects**
 
-- 🌱 I’m currently learning **Vue Js**
-
 - 👯 I’m looking to collaborate on **any project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/benbasse](https://github.com/benbasse)
